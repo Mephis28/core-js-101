@@ -76,7 +76,6 @@ function getArrayOfPositives(arr) {
     return '';
   });
   result = result.join('');
-  console.log(result);
   result = result.split('');
   return result;
 }
